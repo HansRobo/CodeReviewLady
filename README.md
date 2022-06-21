@@ -1,6 +1,7 @@
 # CodeReviewLady
-Twitter診断メーカー「コードレビューお嬢様」のリポジトリ．
-https://shindanmaker.com/997515
+Twitter診断メーカー「コードレビューお嬢様」のリポジトリ．  
+https://shindanmaker.com/997515  
+※実際のサービスとの同期は手動です
 
 # Content
 - 命名規則がめちゃくちゃでしてよ！
